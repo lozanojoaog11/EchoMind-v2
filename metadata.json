@@ -1,0 +1,5 @@
+{
+  "name": "EchoMind v2",
+  "description": "An application to amplify a core message into tailored social media content. Users input a long-form text, define their voice and audience, and EchoMind generates platform-specific posts for LinkedIn and X (Twitter).",
+  "requestFramePermissions": []
+}
